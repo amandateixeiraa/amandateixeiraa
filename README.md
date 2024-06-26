@@ -1,7 +1,5 @@
-### Hiii, I'm Amanda Teixera!
+### Hiii, I'm Amanda Teixeira!
 
 
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: She/Her
 
 
